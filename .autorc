@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "imamdevops",
+  "repo": "open-webui",
+  "name": "imamdevops",
+  "email": "208610800005@umsida.ac.id",
+}
