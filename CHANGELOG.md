@@ -1,3 +1,15 @@
+# v0.5.15 (Thu Feb 20 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@imamdevops](https://github.com/imamdevops))
+
+#### Authors: 1
+
+- Imam Sujatmiko ([@imamdevops](https://github.com/imamdevops))
+
+---
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
